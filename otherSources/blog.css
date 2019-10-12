@@ -1,0 +1,16 @@
+#body div div.blog {
+	color: #585758;
+	font-size: 12px;
+	line-height: 22px;
+	margin: 0;
+	padding: 0;
+	width: auto;
+}
+#body div div.blog a {
+	color: #585758;
+	text-decoration: none;
+}
+#body div div.blog a:hover,
+#body div div#content div a.back:hover {
+	color: #838282;
+}
